@@ -109,7 +109,7 @@ This is where users will log in and out. It is responsible for managing their se
 
   $ script/generate controller user_sessions
 
-{Here is the source for the user_session_controller.rb}[http://github.com/binarylogic/authlogic_example/blob/5819a13477797d758cb6871f475ed1c54bf8a3a7/app/controllers/user_sessions_controller.rb].
+{Here is the source for the user_sessions_controller.rb}[http://github.com/binarylogic/authlogic_example/blob/5819a13477797d758cb6871f475ed1c54bf8a3a7/app/controllers/user_sessions_controller.rb].
 
 Notice it's exactly the same as any other resource controller. Then your views can be anything you want.
 
